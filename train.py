@@ -1,3 +1,5 @@
+# クオータニオン処理を追加する予定
+
 import os
 import datetime
 import torch
