@@ -1,5 +1,5 @@
 # クオータニオン処理を追加する予定
-
+# 相対座標処理も追加する予定 
 import os
 import datetime
 import torch
